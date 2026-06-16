@@ -1,3 +1,7 @@
+# 悉知
+
+当前**仓库暂不维护**，如有需要请使用 [vevod-mcp](https://github.com/volcengine/mcp-server/tree/main/server/mcp_server_vod)
+
 # Volcengine MCP
 
 Volcengine VOD 的 Model Context Protocol (MCP) Server 实现
@@ -41,3 +45,8 @@ Volcengine VOD MCP是一个基于[Model Context Protocol](https://github.com/mod
 ```
 
 请在[火山引擎-视频点播-控制台](https://www.volcengine.com/product/vod)申请ACCESS_KEY、SECRET_KEY
+
+## Security and privacy
+
+This project takes security seriously.
+For vulnerability reporting and supported versions, see [SECURITY.md](SECURITY.md)
